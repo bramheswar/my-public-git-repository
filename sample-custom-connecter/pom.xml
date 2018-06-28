@@ -8,13 +8,12 @@
     <packaging>mule</packaging>
 	<name>Mule sample-custom-connecter Application</name>
 
-    <properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <parent>
+		<groupId>com.javastreets</groupId>
+		<artifactId>mule-maven-parent-pom</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
 
-		<mule.version>3.8.4</mule.version>
-    	<mule.tools.version>1.2</mule.tools.version>
-	</properties>
 
 	<build>
 		<plugins>
