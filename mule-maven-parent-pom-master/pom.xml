@@ -11,19 +11,19 @@
 
 	<developers>
 		<developer>
-			<name>Manik Magar</name>
-			<email>manik.magar@gmail.com</email>
+			<name>Bramheswar</name>
+			<email>brahmeswarav.in@mouritech.com</email>
 			<organization>Home</organization>
-			<organizationUrl>https://javastreets.com</organizationUrl>
+			<organizationUrl>https://mouritech.com</organizationUrl>
 		</developer>
 	</developers>
 
 
 	<organization>
-		<name>JavaStreets.com</name>
-		<url>https://javastreets.com</url>
+		<name>Mouritech.com</name>
+		<url>https://mouritech.com</url>
 	</organization>
-	<url>https://github.com/manikmagar/mule-maven-parent-pom</url>
+	<url>https://github.com/bramheswar/my-public-git-repository/mule-maven-parent-pom</url>
 	<licenses>
 		<license>
 			<name>MIT License</name>
@@ -33,9 +33,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/manikmagar/mule-maven-parent-pom</url>
-		<connection>scm:git:git@github.com:manikmagar/mule-maven-parent-pom.git</connection>
-		<developerConnection>scm:git:git@github.com:manikmagar/mule-maven-parent-pom.git</developerConnection>
+		<url>https://github.com/bramheswar/my-public-git-repository/mule-maven-parent-pom</url>
+		<connection>scm:git:brahmeswarav.in@mouritech.com:bramheswar/my-public-git-repository/mule-maven-parent-pom.git</connection>
+		<developerConnection>scm:git:brahmeswarav.in@mouritech.com:bramheswar/my-public-git-repository/mule-maven-parent-pom.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
